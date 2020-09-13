@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e36a2fbe.chunk.css",
+    "main.js": "/static/js/main.7d54459f.chunk.js",
+    "main.js.map": "/static/js/main.7d54459f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.911d0a6e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.911d0a6e.js.map",
+    "static/js/2.2280a850.chunk.js": "/static/js/2.2280a850.chunk.js",
+    "static/js/2.2280a850.chunk.js.map": "/static/js/2.2280a850.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0bebb86b8ba0761d87204ec4d70c4720.js": "/precache-manifest.0bebb86b8ba0761d87204ec4d70c4720.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e36a2fbe.chunk.css.map": "/static/css/main.e36a2fbe.chunk.css.map",
+    "static/js/2.2280a850.chunk.js.LICENSE.txt": "/static/js/2.2280a850.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/TTCommonsRegular.6ba4b187.otf",
+    "static/media/additionalInfo.scss": "/static/media/arrow-back.ff83e3c2.svg",
+    "static/media/typeDonations.scss": "/static/media/target.67517735.svg",
+    "static/media/targetingForm.scss": "/static/media/img.45c8c5df.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.911d0a6e.js",
+    "static/js/2.2280a850.chunk.js",
+    "static/css/main.e36a2fbe.chunk.css",
+    "static/js/main.7d54459f.chunk.js"
+  ]
+}
